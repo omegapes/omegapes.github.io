@@ -140,7 +140,9 @@ table th,td{
         width: 30%;
     }
 
-
+    table{
+    width: min-content !important;
+    }
     .page1{
         justify-content: center !important;
     }
